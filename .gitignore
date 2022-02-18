@@ -1,0 +1,17 @@
+/.idea/
+/DLLs/
+/Doc/
+/include/
+/Lib/
+/libs/
+/Scripts/
+/tcl/
+/Tools/
+/LICENSE.txt
+/NEWS.txt
+/python.exe
+/python3.dll
+/python39.dll
+/pythonw.exe
+/vcruntime140.dll
+/vcruntime140_1.dll
